@@ -1,0 +1,11 @@
+opencv-python
+Pillow
+transformers
+einops
+diffusers==0.18.2
+decord
+retrying
+# deepspeed==0.7.4
+# accelerate
+# huggingface-hub
+# ftfy
