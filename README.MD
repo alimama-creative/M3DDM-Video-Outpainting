@@ -6,7 +6,7 @@ Official code for the paper:
 >
 > Fanda Fan, Chaoxu Guo, Litong Gong, Biao Wang, Tiezheng Ge, Yuning Jiang, Chunjie Luo, Jianfeng Zhan
 >
-> <a href='https://arxiv.org/abs/2309.02119'><img src='https://img.shields.io/badge/arXiv-2301.02379-red'></a> <a href='https://fanfanda.github.io/M3DDM/'><img src='https://img.shields.io/badge/Project-Website-orange'></a>
+> <a href='https://arxiv.org/abs/2309.02119'><img src='https://img.shields.io/badge/arXiv-2309.02119-red'></a> <a href='https://fanfanda.github.io/M3DDM/'><img src='https://img.shields.io/badge/Project-Website-orange'></a>
 
 
 <p align="center">
