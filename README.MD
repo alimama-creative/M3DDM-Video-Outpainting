@@ -70,7 +70,7 @@ Parameters
 
 `target_ratio_list`: This parameter specifies the aspect ratio for the output video. You can input a single value such as "1:1", "16:9", or "9:16", or you can input a list like "16:9,9:16". For better results, we recommend inputting a single value.
 
-`copy_original`: This parameter specifies whether to replace the corresponding parts of the generated video with the original video. It's worth noting that the original video here has also been processed by the VAE encoder and then remapped. If you want to replace the original video, you should resize it and overwrite the generated pixel values.
+`copy_original`: This parameter specifies whether to replace the corresponding parts of the generated video with the original video. It is worth noting that the parts of the original video being replaced have already been resized to meet a resolution of 256.
 
 <!-- ## Results
 
