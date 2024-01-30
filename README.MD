@@ -17,6 +17,7 @@ Official code for the paper:
 
 
 ## :fire:News
+- [01/24/2024] Technical post released! (Chinese version: [视频尺寸魔方：分层遮掩3D扩散模型在视频尺寸延展的应用](https://mp.weixin.qq.com/s/vCL26VrROLNFJNiVsqrQaw))
 - [01/12/2024] Inference code and model weights released!
 
 
